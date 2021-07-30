@@ -1,8 +1,7 @@
 # hello-world
-github test
 
-Hi!
+Hello! nice to meet you
 
-안녕하세요！
+안녕하세요, 반갑습니다.
 
-你好！
+您好，认识您很高兴。
